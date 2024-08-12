@@ -1,0 +1,13 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: coral;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+}
+
+a {
+    color: darkred;
+}
